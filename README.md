@@ -72,3 +72,5 @@ Cookie.clear();
 // clear all cookies for 'http://bing.com'
 Cookie.clear('http://bing.com');
 ```
+## Note
+We added a podspec so this work with React-Native autolinking
